@@ -1,0 +1,6 @@
+01. command to convert '.qrc' file to '.py' file
+
+        $ rcc -g python -o resources.py resources.qrc
+
+      
+

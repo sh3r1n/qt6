@@ -1,0 +1,3 @@
+01. the command to create '.py' file from '.ui' is
+      
+        $ pyuic6 01_main_window.ui -o MainWindow.py
