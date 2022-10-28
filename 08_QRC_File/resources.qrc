@@ -1,6 +1,6 @@
-<!DOCTYPE RCC>
-<RCC version="1.0">
+<RCC>
   <qresource prefix="icons">
+    <file alias="cut.png">edit-cut.svg</file>
     <file alias="chrome.png">google_chrome.png</file>
   </qresource>
 </RCC>
